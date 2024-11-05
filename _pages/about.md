@@ -16,7 +16,7 @@ Before joining Sanctuary AI, I spent two years as a research assistant at the Un
 
 I earned my bachelor's degree from Sharif University of Technology, where I developed a passion for robotics and control systems that continues to drive my work today.
 
-Projects
+Open Source Projects
 --------
 
 ### Robot Task Space Control
