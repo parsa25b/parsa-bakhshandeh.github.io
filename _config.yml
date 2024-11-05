@@ -12,7 +12,7 @@ title                    : "Parsa Bakhshandeh"
 title_separator          : "-"
 name                     : &name "Parsa Bakhshandeh"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://parsa25b.github.io/parsa-bakhshandeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Canada"
-  employer         : "Red Brick University"
+  employer         : "MASc Univeristy of British Columbia"
   uri              : # URL
   email            : "parsa7676@gmail.com" 
 
