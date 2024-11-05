@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 About Me
-========
+--------
 
 I am currently a Controls Engineer at Sanctuary AI, where I work at the cutting edge of robotics hardware, simulation, and reinforcement learning. In this role, I have contributed to the development of the controller stack for Sanctuary’s humanoid robots.
 
