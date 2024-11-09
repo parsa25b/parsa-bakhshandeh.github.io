@@ -14,26 +14,23 @@ Work Experience
 ---------------
 
 * Sanctuary AI
-  * Senior Controls Engineer (September 2024 – Present)
-    * Developed whole body controller stack using optimization based method (QP)
-    * Enhanced robot safety and smooth motion by incorporating gravity compensation in the control loop, leading to decreased PD gains.
+  * Senior Controls Software Engineer (August 2024 – Present)
+    * Developed a whole-body impedance controller using a QP-based optimization method, enhancing safety and compliance
     * Implemented a low-cost, easy-to-set-up robot teleoperation system using the Quest Meta headset
-    * Built a Python-based validation tool for robotic actuators, combining multiple test profiles to automate system readiness checks.
     
-
-  * Controls Software Engineer (March 2023 2024 – September 2024)
-    * Engineered a trajectory smoothing algorithm in C++ and Python that respects robot kinematic limits while ensuring low latency.
-    * Proficient in DDS and ROS2 for communication.
-    * Experienced with EtherCAT, adding Rx and Tx objects 
-    * Contributed to development of multiple user interfaces for daily robot operations in C++ with ImGui and QT
-    * Vibration analysis of robot end-effector using IMU sensors and motion capture markers
+  * Controls Software Engineer (March 2023 – August 2024)
+    * Built a Python-based validation tool for robotic actuators, automating system readiness
+    * Engineered a real-time trajectory smoothing algorithm in C++ and Python, ensuring robots velocity and acceleration limits
+    * Gained proficiency in DDS and ROS2
+    * Experienced with EtherCAT, adding Rx/Tx objects 
+    * Conducted vibration analysis on robot end-effectors using IMU sensors and motion capture markers to assess and improve stability.
 
 * University of British Columbia
 
   * Research Assitant (September 2020 – January 2023)
     * Developed a MATLAB-based digital twin software application for monitoring and controlling of CNC machining systems
     * Implemented motion planning for CNC machines using FIR filter
-    * Estimated cutting force at the tooltip in machining applications using hammer test and Kalman Filter
+    * Estimated cutting force at the tooltip in machining applications using system identification and Kalman Filter
   
   * Teaching Assistant (Septemeber 2021 - Decemeber 2022)
     * Supervised students in Computer Control of Mechatronics Systems, Mechanical Vibrations, and Machine Design Courses
