@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Parsa"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Robotics | Controls | Reinforcment Learning"
-  location         : "Canada"
+  location         : "Vancouver, Canada"
   employer         : "MASc Univeristy of British Columbia"
   uri              : # URL
   email            : "parsa7676@gmail.com" 
