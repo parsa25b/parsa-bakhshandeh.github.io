@@ -12,7 +12,7 @@ title                    : "Parsa Bakhshandeh"
 title_separator          : "-"
 name                     : &name "Parsa Bakhshandeh"
 description              : &description "personal description"
-url                      : https://parsa25b.github.io/parsa-bakhshandeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : parsa-bakhshandeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
