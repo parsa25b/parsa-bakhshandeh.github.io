@@ -34,11 +34,11 @@ This project employs the oculus_reader library to capture hand poses from the Me
 ### Learning Quadruped Locomotion [code](https://github.com/parsa25b/quadruped-rl-locomotion)
 This project features a custom Gymnasium environment designed for training quadruped locomotion using reinforcement learning within the MuJoCo simulation engine. The cost and reward structures have been shaped for quadruped movement (although they can be improved). Below is an example offline trained model:
 
-![trained model](https://github.com/parsa25b/parsa-bakhshandeh.github.io/blob/main/images/341280291-8afddece-8186-4b9d-8352-594dcef4d53d.mp4?raw=true)
+![trained model](https://github.com/parsa25b/parsa-bakhshandeh.github.io/raw/refs/heads/main/images/341280291-8afddece-8186-4b9d-8352-594dcef4d53d.mp4)
 
 ### Trajectory Profile Generation [code](https://github.com/parsa25b/trajectory_generation)
 This repository features a general trajectory generation algorithm that produces an acceleration-limited (bang-bang) trajectory profile. By applying the same FIR filter multiple times, the algorithm can generate higher-order polynomial trajectories. These smooth motion profiles can then be used to control robotic actuators effectively. Below is an example of a user desired trajectory
 
-![alt text](https://github.com/parsa25b/parsa-bakhshandeh.github.io/blob/main/images/GUI_TG.JPG?raw=true)
+![alt text](https://raw.githubusercontent.com/parsa25b/parsa-bakhshandeh.github.io/refs/heads/main/images/GUI_TG.JPG)
 
 
