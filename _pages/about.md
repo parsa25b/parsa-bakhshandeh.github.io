@@ -28,7 +28,7 @@ This project focuses on controlling the robot in task space using a controller t
 
 ![h1 right arm Task Space Control](https://github.com/parsa25b/parsa-bakhshandeh.github.io/blob/main/images/h1_right_arm_task_space_control.gif?raw=true)
 
-### VR Headset Teleoperation [code]()
+### VR Headset Teleoperation [code](https://github.com/parsa25b/vr_robot_control)
 This project employs the oculus_reader library to capture hand poses from the Meta Quest headset, creating a user-friendly teleoperation platform. When combined with the Robot Task Space Control, this setup allows for controlling the robot's joint positions. By integrating a ROS2 interface, it can be further utilized to control the robot hardware.
 
 ### Learning Quadruped Locomotion [code](https://github.com/parsa25b/quadruped-rl-locomotion)
